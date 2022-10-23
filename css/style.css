@@ -38,7 +38,7 @@ tr {
 div.left {
     height: 100%;
     width: 40%;
-    background-color: #B4CFEC;
+    background-color: #daefed;
     float: left;
 }
 
@@ -52,7 +52,7 @@ div.right {
 div.img-container {
     width: 100%;
     margin: 0;
-    background-color: #40E0D0;
+    background-color: #009688;
     padding: 20px;
 }
 
@@ -70,9 +70,9 @@ div.other-container {
 }
 
 p.title {
-    color: #40E0D0;
+    color: #009688;
     font-weight: bold;
-    border-bottom: 3px solid #40E0D0;
+    border-bottom: 3px solid #009688;
     line-height: 1.5em;
     font-size: 18px;
     width: 70%;
@@ -85,7 +85,7 @@ p.normal {
 }
 
 p.progress {
-    border-bottom: 5px dotted #40E0D0;
+    border-bottom: 5px dotted #009688;
     width: 70%;
     line-height: 2.0em;
 }
